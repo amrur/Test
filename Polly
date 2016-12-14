@@ -1,0 +1,1 @@
+Polly is a .NET PCL library that allows developers to express transient exception and fault handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker in a fluent manner.
